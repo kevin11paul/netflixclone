@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/netflixclone/static/css/main.ecf5c05f.css",
-    "main.js": "/netflixclone/static/js/main.24c2ce85.js",
+    "main.js": "/netflixclone/static/js/main.e7ec768d.js",
     "index.html": "/netflixclone/index.html",
     "main.ecf5c05f.css.map": "/netflixclone/static/css/main.ecf5c05f.css.map",
-    "main.24c2ce85.js.map": "/netflixclone/static/js/main.24c2ce85.js.map"
+    "main.e7ec768d.js.map": "/netflixclone/static/js/main.e7ec768d.js.map"
   },
   "entrypoints": [
     "static/css/main.ecf5c05f.css",
-    "static/js/main.24c2ce85.js"
+    "static/js/main.e7ec768d.js"
   ]
 }
